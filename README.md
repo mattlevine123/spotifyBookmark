@@ -1,1 +1,2 @@
 # spotifyBookmark
+Spotify bookmark pluggin
